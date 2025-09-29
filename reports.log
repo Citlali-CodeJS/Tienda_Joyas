@@ -9,3 +9,5 @@
 2025-09-29T17:31:54.123Z GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata
 2025-09-29T17:32:47.983Z GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata
 
+2025-09-29T17:41:12.876Z GET /joyas?limits=3&page=2&order_by=stock_ASC
+2025-09-29T17:42:12.815Z GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata
